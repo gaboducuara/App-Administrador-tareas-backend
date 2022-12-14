@@ -7,7 +7,7 @@ const {
   updateTask,
 } = require('../controller/taskController.js');
 const router = express.Router();
-const Task = require('../model/taskModel.js');
+
 
 router.route('/').get(getTasks).post(createTask),
 router.route('/:id').get(getTasksById).put(updateTask).delete(DeleteTask)
