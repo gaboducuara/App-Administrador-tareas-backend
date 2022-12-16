@@ -1,7 +1,11 @@
 # Web App Administrador de Tareas Simple  🙌
 
 [Administrador de tareas](https://vitejs-administrador-tareas.vercel.app/ "Administrador de tareas")
+
+
 Esta aplicacion MERN consta de un componente principal:  Tabla CRUD  para Crear, Actualizar, Agregar y Eliminar datos.
+
+
 
 
 ## Correr la aplicacion en local
@@ -44,6 +48,11 @@ Para el entorno de desarrollo de la app se utilizo node js y express para la inf
  - nodemon- Te permite monitorear los cambios en el código fuente que se está desarrollando y automáticamente reinicia el servidor.
 
 ## Deploy 🚀
+
+- [LINK DEL FRONTEND ](https://github.com/gaboducuara/Vitejs-Administrador-Tareas "LINK DEL FRONTEND ")
+
+
+
 Puedes ver la aplicacion funcionando en produccion mediante este link:[Administrador de tareas](https://vitejs-administrador-tareas.vercel.app/ "Administrador de tareas")
 
 Si llegaste aqui gracias 🙏🏼 me gusta ser leido, Buen Dia.
